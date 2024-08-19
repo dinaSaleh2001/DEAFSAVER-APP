@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "836785001307",
+    "firebase_url": "https://filewav-21afa-default-rtdb.firebaseio.com",
+    "project_id": "filewav-21afa",
+    "storage_bucket": "filewav-21afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836785001307:android:d05dbf118a2948ab95007e",
+        "android_client_info": {
+          "package_name": "com.example.grad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy424Bkt8ZTwv5s6syfWDZh3wfs5XNQFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
